@@ -1,0 +1,2 @@
+Adding SaSS to a project
+- npm add node-sass
